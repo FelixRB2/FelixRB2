@@ -100,16 +100,7 @@ Aplicación de control horario y gestión de trabajadores.
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> Estadísticas de GitHub
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td width="50%" align="center">
-        <img width="49%" src="https://github-stats-extended.vercel.app/api?username=FelixRB2&show_icons=true&theme=dark&hide_border=true&locale=es" />
-      </td>
-      <td width="50%" align="center">
-        <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FelixRB2&layout=compact&theme=dark&hide_border=true&langs_count=7" />
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FelixRB2&layout=compact&theme=dark&hide_border=true&langs_count=7" />
 </p>
 
 <br>
