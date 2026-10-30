@@ -9,7 +9,7 @@ las aplicaciones web y la creación de soluciones tecnológicas.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-142D43?style=for-the-badge&logo=github)](https://github.com/FelixRB2)
+[![GitHub](https://img.shields.io/badge/GitHub-FelixRB2-142D43?style=for-the-badge&logo=github)](https://github.com/FelixRB2)
 
 </div>
 
