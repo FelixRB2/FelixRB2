@@ -1,12 +1,6 @@
-
-<!--
-  PERFIL DE GITHUB
-  Sustituye TU_USUARIO por tu usuario real de GitHub.
--->
-
 <div align="center">
 
-# ¡Hola! Soy Félix 👋
+# ¡Hola! Soy Félix
 
 ### Estudiante de Desarrollo de Aplicaciones
 
@@ -15,20 +9,20 @@ las aplicaciones web y la creación de soluciones tecnológicas.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-142D43?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-142D43?style=for-the-badge&logo=github)](https://github.com/FelixRB2)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante del ámbito del desarrollo de aplicaciones.
-- 💻 Interesado en el desarrollo frontend y backend.
-- 🚀 Trabajando en proyectos personales y académicos.
-- 🗄️ Experiencia trabajando con bases de datos relacionales.
-- 📚 En constante aprendizaje y mejora de mis habilidades.
-- 🎯 Mi objetivo es seguir creciendo como desarrollador de software.
+- Estudiante del ámbito del desarrollo de aplicaciones web.
+- Interesado en el desarrollo frontend y backend.
+- Trabajando en proyectos personales y académicos.
+- Experiencia trabajando con bases de datos relacionales.
+- En constante aprendizaje y mejora de mis habilidades.
+- Mi objetivo es seguir creciendo como desarrollador de software.
 
 ---
 
@@ -60,9 +54,9 @@ las aplicaciones web y la creación de soluciones tecnológicas.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🔹 GarageBenz
+### GarageBenz
 
 Aplicación web orientada a la gestión de talleres mecánicos y vehículos.
 
@@ -75,7 +69,7 @@ Aplicación web orientada a la gestión de talleres mecánicos y vehículos.
 
 **Tecnologías:** Java · Spring Boot · Angular · MySQL
 
-### 🔹 AppFichar
+### AppFichar
 
 Aplicación de gestión y control horario de trabajadores.
 
@@ -106,11 +100,11 @@ Aplicación de gestión y control horario de trabajadores.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-142D43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-142D43?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelixRB2)
 
 </div>
 
